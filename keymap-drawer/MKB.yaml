@@ -134,7 +134,7 @@ layers:
   - LEFT CONTROL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&bl BL_INC'
+  - {t: ▽, type: trans}
   - VOLUME UP
   - Sft+Gui+3
   - {t: ▽, type: trans}
@@ -146,7 +146,7 @@ layers:
   - LSHFT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&bl BL_DEC'
+  - {t: ▽, type: trans}
   - VOLUME DOWN
   - Sft+Gui+4
   - {t: ▽, type: trans}
