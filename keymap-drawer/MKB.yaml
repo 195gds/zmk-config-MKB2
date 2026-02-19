@@ -46,7 +46,7 @@ layers:
   - {t: LANGUAGE 1, h: Mouse}
   - LEFT
   - DOWN
-  - RIGHT
+  - ESCAPE
   - LEFT
   - UP
   - SPACE
@@ -61,11 +61,11 @@ layers:
   - B
   Fnc:
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - '1'
   - '2'
   - '3'
   - '0'
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Ctl+A
   - UP ARROW
@@ -73,11 +73,11 @@ layers:
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - '4'
   - '5'
   - '6'
   - MINUS
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LEFT ARROW
   - DOWN ARROW
@@ -85,11 +85,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - '7'
   - '8'
   - '9'
   - PLUS
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Gui+LEFT
   - Gui+RIGHT
@@ -134,8 +134,8 @@ layers:
   - LEFT CONTROL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&bl BL_INC'
+  - VOLUME UP
   - Sft+Gui+3
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -146,8 +146,8 @@ layers:
   - LSHFT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&bl BL_DEC'
+  - VOLUME DOWN
   - Sft+Gui+4
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
