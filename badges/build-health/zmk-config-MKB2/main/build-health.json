@@ -1,13 +1,13 @@
 {
-  "repository": "te9no/zmk-config-MKB2",
+  "repository": "195gds/zmk-config-MKB2",
   "branch": "main",
   "target": "all",
   "status": "passing",
   "raw_status": "success",
   "color": "#2ea44f",
-  "sha": "235cb25d52ef27a66eeac8c3051068bd8e0f8b23",
-  "run_id": "29778647945",
-  "run_number": "96",
-  "run_url": "https://github.com/te9no/zmk-config-MKB2/actions/runs/29778647945",
-  "generated_at": "2026-07-20T21:15:07Z"
+  "sha": "59fd8e8d09c7d814bc5a03c8aaf7401618cadde2",
+  "run_id": "29794220308",
+  "run_number": "1",
+  "run_url": "https://github.com/195gds/zmk-config-MKB2/actions/runs/29794220308",
+  "generated_at": "2026-07-21T02:03:31Z"
 }
