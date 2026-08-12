@@ -5,9 +5,9 @@
   "status": "passing",
   "raw_status": "success",
   "color": "#2ea44f",
-  "sha": "218f649379cc76bd9e507cc166646033f4c794db",
-  "run_id": "31533840525",
-  "run_number": "26",
-  "run_url": "https://github.com/195gds/zmk-config-MKB2/actions/runs/31533840525",
-  "generated_at": "2026-08-11T20:48:36Z"
+  "sha": "93bce4fe40d602490afcf4402812085fe02509c7",
+  "run_id": "31638502853",
+  "run_number": "27",
+  "run_url": "https://github.com/195gds/zmk-config-MKB2/actions/runs/31638502853",
+  "generated_at": "2026-08-12T20:48:50Z"
 }
